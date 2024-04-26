@@ -8,7 +8,7 @@
 
 A Firefox extension to display Fastmail within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Fastmail website. It also adds a shortcut, and a button toggle within the toolbar.
 
-[![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/sorry-minnesota-only/)
+[![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/fastmail-in-sidebar/)
 
 ## Usage
 
